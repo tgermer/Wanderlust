@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 100 200 400 600 800;
+    font-display: swap;
+    src: url("../fonts/Open_Sans/OpenSans-VariableFont_wdth\,wght.ttf");
+  }
+
+  html {
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+  }
